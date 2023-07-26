@@ -1,0 +1,7 @@
+body {
+  background-image: url(../images/bg-top.svg), url(../images/bg-bottom.svg);
+  background-repeat: no-repeat;
+  background-position: right top,left bottom;
+  background-size: 250px;
+  background-color: hsl(240, 78%, 98%);
+}
